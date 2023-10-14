@@ -57,6 +57,7 @@ li{
     max-width: 900px;
     margin: 0 auto;
     padding: 1em;
+    
 }
 
 .section--page{
@@ -77,6 +78,7 @@ li{
 #user-name{
     font-size: 48px;
     line-height: 1em;
+    text-align: center;
 }
 
 #profile-pic{
@@ -93,6 +95,7 @@ li{
     justify-content: space-between;
     column-gap: 1em;
     flex-wrap: wrap;
+    
 }
 
 #socials--list a{
@@ -117,6 +120,7 @@ li{
     flex-wrap: wrap;
     gap: 1em;
     font-size: 0.9em;
+    
 }
 
 .card--techstack{
